@@ -22,5 +22,5 @@ The complex valued &#956;$_1$ and ```math \mu_2 ``` were obtained by solving the
 ```math
     s_{11}\mu_j ^4-2s_{16}\mu_j ^3+(2s_{12}+s_{66})\mu_j ^2-2s_{26}\mu_j+s_{22}=0,
 ```
-where the compliance constants $s_{ij}$, which were evaluated at $T=0$ K, were rotated to match the orientation of interest through suitable rotation operations.
+where the compliance constants ```math s_{ij} ```, which were evaluated at $T=0$ K, were rotated to match the orientation of interest through suitable rotation operations.
 
