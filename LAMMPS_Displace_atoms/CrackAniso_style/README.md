@@ -18,7 +18,7 @@ p_1=s_{11}\mu_1^2 +s_{12}-s_{16}\mu_1   \mbox{,  } p_2=s_{11}\mu_2^2 +s_{12}-s_{
 q_1=\frac{s_{12}\mu_1^2 +s_{22}-s_{26}\mu_1}{\mu_1} \mbox{,  } q_2=\frac{s_{12}\mu_2^2 +s_{22}-s_{26}\mu_2}{\mu_2}.
 ```
 
-The complex valued ```math \mu_1 ``` and ```math \mu_2 ``` were obtained by solving the characteristic equation
+The complex valued &mu$_1$ and ```math \mu_2 ``` were obtained by solving the characteristic equation
 ```math
     s_{11}\mu_j ^4-2s_{16}\mu_j ^3+(2s_{12}+s_{66})\mu_j ^2-2s_{26}\mu_j+s_{22}=0,
 ```
