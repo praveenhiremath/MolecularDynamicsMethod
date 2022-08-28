@@ -2,10 +2,10 @@
 
 The stress intensity-controlled loading was applied through utilization of the mode I displacement field, which is  proportional to the stress intensity factor, $K_I$, and can be obtained from anisotropic linear elastic fracture mechanics as \cite{sih1965cracks,sih1968fracture,cheung1994molecular}:
 
-$
+```math
 u_x=\frac{K_I \sqrt{2r}}{\sqrt{\pi}} \Re \bigg\{\Big[\frac{1}{(\mu_1-\mu_2)}\Big]\Big[\mu_1 p_2(\cos\theta+\mu_2 \sin\theta)^{1/2}\\
     -\mu_2 p_1(\cos\theta+\mu_1 \sin\theta)^{1/2}\Big] \bigg\}  ,  
-$ 
+```
 
 \begin{multline}
 u_y=\frac{K_I \sqrt{2r}}{\sqrt{\pi}} \Re\bigg\{\Big[\frac{1}{(\mu_1-\mu_2)}\Big]\Big[\mu_1 q_2(\cos\theta+\mu_2 \sin\theta)^{1/2}\\
