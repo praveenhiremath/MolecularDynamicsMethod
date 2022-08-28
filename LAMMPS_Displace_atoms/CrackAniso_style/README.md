@@ -12,7 +12,7 @@ u_y=\frac{K_I \sqrt{2r}}{\sqrt{\pi}} \Re\bigg\{\Big[\frac{1}{(\mu_1-\mu_2)}\Big]
     -\mu_2 q_1(\cos\theta+\mu_1 \sin\theta)^{1/2}\Big] \bigg\} , 
 ```
 
-\noindent where $\Re$ represents the real part operator, and
+\noindent where ```math\Re``` represents the real part operator, and
 ```math
 p_1=s_{11}\mu_1^2 +s_{12}-s_{16}\mu_1   \mbox{,  } p_2=s_{11}\mu_2^2 +s_{12}-s_{16}\mu_2,  \\
 q_1=\frac{s_{12}\mu_1^2 +s_{22}-s_{26}\mu_1}{\mu_1} \mbox{,  } q_2=\frac{s_{12}\mu_2^2 +s_{22}-s_{26}\mu_2}{\mu_2}.
