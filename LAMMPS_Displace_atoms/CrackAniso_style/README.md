@@ -1,4 +1,4 @@
-# Implementation of Anisotropic displacement fields in LAMMPS package (A popular package for Molecular Dynamics method) 
+# Implementation of Anisotropic displacement fields in LAMMPS package (A popular package for Molecular Statics/Dynamics method) 
 
 The stress intensity-controlled loading was applied through utilization of the mode I displacement field, which is  proportional to the stress intensity factor, $K_I$, and can be obtained from anisotropic linear elastic fracture mechanics as \cite{sih1965cracks,sih1968fracture,cheung1994molecular}:
 
